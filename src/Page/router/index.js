@@ -1,15 +1,12 @@
-// AllRoute.js or AllRoute.tsx
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Homepage from '../HomePage'; // Adjust the path as necessary
+import Homepage from '../Home'; // Adjust if needed
 
 const AllRoute = () => {
   return (
-    <div className="App">
-      <Routes>
-        <Route exact path="/" element={<Homepage />} />
-      </Routes>
-    </div>
+    <Routes>
+      <Route path="/" element={<Homepage />} />
+    </Routes>
   );
 };
 
