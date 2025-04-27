@@ -43,7 +43,7 @@ const CategorieLeft = () => {
 
           <ul className="sidebar-submenu-category-list" data-accordion>
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Shirt</p>
                 <data
                   value="300"
@@ -56,7 +56,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">shorts & jeans</p>
                 <data
                   value="60"
@@ -69,7 +69,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">jacket</p>
                 <data
                   value="50"
@@ -82,7 +82,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">dress & frock</p>
                 <data
                   value="87"
@@ -124,7 +124,7 @@ const CategorieLeft = () => {
 
           <ul className="sidebar-submenu-category-list" data-accordion>
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Sports</p>
                 <data
                   value="45"
@@ -137,7 +137,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Formal</p>
                 <data
                   value="75"
@@ -150,7 +150,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Casual</p>
                 <data
                   value="35"
@@ -163,7 +163,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Safety Shoes</p>
                 <data
                   value="26"
@@ -205,7 +205,7 @@ const CategorieLeft = () => {
 
           <ul className="sidebar-submenu-category-list" data-accordion>
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Earrings</p>
                 <data
                   value="46"
@@ -218,7 +218,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Couple Rings</p>
                 <data
                   value="73"
@@ -231,7 +231,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Necklace</p>
                 <data
                   value="61"
@@ -273,7 +273,7 @@ const CategorieLeft = () => {
 
           <ul className="sidebar-submenu-category-list" data-accordion>
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Clothes Perfume</p>
                 <data
                   value="12"
@@ -286,7 +286,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Deodorant</p>
                 <data
                   value="60"
@@ -299,7 +299,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">jacket</p>
                 <data
                   value="50"
@@ -312,7 +312,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">dress & frock</p>
                 <data
                   value="87"
@@ -354,7 +354,7 @@ const CategorieLeft = () => {
 
           <ul className="sidebar-submenu-category-list" data-accordion>
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Shampoo</p>
                 <data
                   value="68"
@@ -367,7 +367,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Sunscreen</p>
                 <data
                   value="46"
@@ -380,7 +380,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Body Wash</p>
                 <data
                   value="79"
@@ -393,7 +393,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Makeup Kit</p>
                 <data
                   value="23"
@@ -435,7 +435,7 @@ const CategorieLeft = () => {
 
           <ul className="sidebar-submenu-category-list" data-accordion>
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Sunglasses</p>
                 <data
                   value="50"
@@ -448,7 +448,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Lenses</p>
                 <data
                   value="48"
@@ -490,7 +490,7 @@ const CategorieLeft = () => {
 
           <ul className="sidebar-submenu-category-list" data-accordion>
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Shopping Bag</p>
                 <data
                   value="62"
@@ -503,7 +503,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Gym Backpack</p>
                 <data
                   value="35"
@@ -516,7 +516,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Purse</p>
                 <data
                   value="80"
@@ -529,7 +529,7 @@ const CategorieLeft = () => {
             </li>
 
             <li className="sidebar-submenu-category">
-              <a href="#" className="sidebar-submenu-title">
+              <a  className="sidebar-submenu-title">
                 <p className="product-name">Wallet</p>
                 <data
                   value="75"
@@ -551,7 +551,7 @@ const CategorieLeft = () => {
       <div className="showcase-wrapper">
         <div className="showcase-container">
           <div className="showcase">
-            <a href="#" className="showcase-img-box">
+            <a  className="showcase-img-box">
               <img
                 src="./assets/images/products/1.jpg"
                 alt="baby fabric shoes"
@@ -562,7 +562,7 @@ const CategorieLeft = () => {
             </a>
 
             <div className="showcase-content">
-              <a href="#">
+              <a >
                 <h4 className="showcase-title">baby fabric shoes</h4>
               </a>
 
@@ -582,7 +582,7 @@ const CategorieLeft = () => {
           </div>
 
           <div className="showcase">
-            <a href="#" className="showcase-img-box">
+            <a  className="showcase-img-box">
               <img
                 src="./assets/images/products/2.jpg"
                 alt="men's hoodies t-shirt"
@@ -593,7 +593,7 @@ const CategorieLeft = () => {
             </a>
 
             <div className="showcase-content">
-              <a href="#">
+              <a >
                 <h4 className="showcase-title">men's hoodies t-shirt</h4>
               </a>
               <div className="showcase-rating">
@@ -612,7 +612,7 @@ const CategorieLeft = () => {
           </div>
 
           <div className="showcase">
-            <a href="#" className="showcase-img-box">
+            <a  className="showcase-img-box">
               <img
                 src="./assets/images/products/3.jpg"
                 alt="girls t-shirt"
@@ -623,7 +623,7 @@ const CategorieLeft = () => {
             </a>
 
             <div className="showcase-content">
-              <a href="#">
+              <a >
                 <h4 className="showcase-title">girls t-shirt</h4>
               </a>
               <div className="showcase-rating">
@@ -642,7 +642,7 @@ const CategorieLeft = () => {
           </div>
 
           <div className="showcase">
-            <a href="#" className="showcase-img-box">
+            <a  className="showcase-img-box">
               <img
                 src="./assets/images/products/4.jpg"
                 alt="woolen hat for men"
@@ -653,7 +653,7 @@ const CategorieLeft = () => {
             </a>
 
             <div className="showcase-content">
-              <a href="#">
+              <a >
                 <h4 className="showcase-title">woolen hat for men</h4>
               </a>
               <div className="showcase-rating">

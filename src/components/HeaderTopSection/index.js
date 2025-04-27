@@ -6,25 +6,25 @@ const HeaderTopSection = () => {
     <div className="container">
       <ul className="header-social-container">
         <li>
-          <a href="#" className="social-link">
+          <a  className="social-link">
             <ion-icon name="logo-facebook"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" className="social-link">
+          <a  className="social-link">
             <ion-icon name="logo-twitter"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" className="social-link">
+          <a  className="social-link">
             <ion-icon name="logo-instagram"></ion-icon>
           </a>
         </li>
 
         <li>
-          <a href="#" className="social-link">
+          <a  className="social-link">
             <ion-icon name="logo-linkedin"></ion-icon>
           </a>
         </li>

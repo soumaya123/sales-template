@@ -4,7 +4,7 @@ const HeaderMainNav = () => {
   return (
     <div className="header-main">
           <div className="container">
-            <a href="#" className="header-logo">
+            <a  className="header-logo">
               <img
                 src="./assets/images/logo/logo.svg"
                 alt="Anon's logo"

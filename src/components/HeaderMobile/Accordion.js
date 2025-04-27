@@ -21,7 +21,7 @@ export const SubMenu = ({ items }) => (
   <>
     {items.map((item, index) => (
       <li key={index} className="submenu-category">
-        <a href="#" className="submenu-title">
+        <a  className="submenu-title">
           {item}
         </a>
       </li>

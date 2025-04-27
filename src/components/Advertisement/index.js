@@ -26,7 +26,7 @@ const Advertisement = () => {
                   <ion-icon name="star-outline"></ion-icon>
                 </div>
 
-                <a href="#">
+                <a >
                   <h3 className="showcase-title">
                     shampoo, conditioner & facewash packs
                   </h3>
@@ -109,7 +109,7 @@ const Advertisement = () => {
                 </div>
 
                 <h3 className="showcase-title">
-                  <a href="#" className="showcase-title">
+                  <a  className="showcase-title">
                     Rose Gold diamonds Earring
                   </a>
                 </h3>

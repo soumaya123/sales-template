@@ -59,7 +59,7 @@ const HeaderMobile = () => {
 
         <ul className="mobile-menu-category-list">
           <li className="menu-category">
-            <a href="#" className="menu-title">Home</a>
+            <a  className="menu-title">Home</a>
           </li>
 
           {/* Repeat this pattern for other menu categories */}
@@ -81,11 +81,11 @@ const HeaderMobile = () => {
           </Accordion>
 
           <li className="menu-category">
-            <a href="#" className="menu-title">Blog</a>
+            <a  className="menu-title">Blog</a>
           </li>
 
           <li className="menu-category">
-            <a href="#" className="menu-title">Hot Offers</a>
+            <a  className="menu-title">Hot Offers</a>
           </li>
         </ul>
 
@@ -99,10 +99,10 @@ const HeaderMobile = () => {
           </Accordion>
 
           <ul className="menu-social-container">
-            <li><a href="#" className="social-link"><ion-icon name="logo-facebook" /></a></li>
-            <li><a href="#" className="social-link"><ion-icon name="logo-twitter" /></a></li>
-            <li><a href="#" className="social-link"><ion-icon name="logo-instagram" /></a></li>
-            <li><a href="#" className="social-link"><ion-icon name="logo-linkedin" /></a></li>
+            <li><a  className="social-link"><ion-icon name="logo-facebook" /></a></li>
+            <li><a  className="social-link"><ion-icon name="logo-twitter" /></a></li>
+            <li><a  className="social-link"><ion-icon name="logo-instagram" /></a></li>
+            <li><a  className="social-link"><ion-icon name="logo-linkedin" /></a></li>
           </ul>
         </div>
       </nav>

@@ -7,44 +7,44 @@ const HeaderSections = () => {
             <div className="container">
                 <ul className="desktop-menu-category-list">
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Home
                         </a>
                     </li>
 
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Categories
                         </a>
 
                         <div className="dropdown-panel">
                             <ul className="dropdown-panel-list">
                                 <li className="menu-title">
-                                    <a href="#">Electronics</a>
+                                    <a >Electronics</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Desktop</a>
+                                    <a >Desktop</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Laptop</a>
+                                    <a >Laptop</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Camera</a>
+                                    <a >Camera</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Tablet</a>
+                                    <a >Tablet</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Headphone</a>
+                                    <a >Headphone</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">
+                                    <a >
                                         <img
                                             src="./assets/images/electronics-banner-1.jpg"
                                             alt="headphone collection"
@@ -57,31 +57,31 @@ const HeaderSections = () => {
 
                             <ul className="dropdown-panel-list">
                                 <li className="menu-title">
-                                    <a href="#">Men's</a>
+                                    <a >Men's</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Formal</a>
+                                    <a >Formal</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Casual</a>
+                                    <a >Casual</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Sports</a>
+                                    <a >Sports</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Jacket</a>
+                                    <a >Jacket</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Sunglasses</a>
+                                    <a >Sunglasses</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">
+                                    <a >
                                         <img
                                             src="./assets/images/mens-banner.jpg"
                                             alt="men's fashion"
@@ -94,31 +94,31 @@ const HeaderSections = () => {
 
                             <ul className="dropdown-panel-list">
                                 <li className="menu-title">
-                                    <a href="#">Women's</a>
+                                    <a >Women's</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Formal</a>
+                                    <a >Formal</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Casual</a>
+                                    <a >Casual</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Perfume</a>
+                                    <a >Perfume</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Cosmetics</a>
+                                    <a >Cosmetics</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Bags</a>
+                                    <a >Bags</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">
+                                    <a >
                                         <img
                                             src="./assets/images/womens-banner.jpg"
                                             alt="women's fashion"
@@ -131,31 +131,31 @@ const HeaderSections = () => {
 
                             <ul className="dropdown-panel-list">
                                 <li className="menu-title">
-                                    <a href="#">Electronics</a>
+                                    <a >Electronics</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Smart Watch</a>
+                                    <a >Smart Watch</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Smart TV</a>
+                                    <a >Smart TV</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Keyboard</a>
+                                    <a >Keyboard</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Mouse</a>
+                                    <a >Mouse</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">Microphone</a>
+                                    <a >Microphone</a>
                                 </li>
 
                                 <li className="panel-list-item">
-                                    <a href="#">
+                                    <a >
                                         <img
                                             src="./assets/images/electronics-banner-2.jpg"
                                             alt="mouse collection"
@@ -169,109 +169,109 @@ const HeaderSections = () => {
                     </li>
 
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Men's
                         </a>
 
                         <ul className="dropdown-list">
                             <li className="dropdown-item">
-                                <a href="#">Shirt</a>
+                                <a >Shirt</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Shorts & Jeans</a>
+                                <a >Shorts & Jeans</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Safety Shoes</a>
+                                <a >Safety Shoes</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Wallet</a>
+                                <a >Wallet</a>
                             </li>
                         </ul>
                     </li>
 
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Women's
                         </a>
 
                         <ul className="dropdown-list">
                             <li className="dropdown-item">
-                                <a href="#">Dress & Frock</a>
+                                <a >Dress & Frock</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Earrings</a>
+                                <a >Earrings</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Necklace</a>
+                                <a >Necklace</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Makeup Kit</a>
+                                <a >Makeup Kit</a>
                             </li>
                         </ul>
                     </li>
 
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Jewelry
                         </a>
 
                         <ul className="dropdown-list">
                             <li className="dropdown-item">
-                                <a href="#">Earrings</a>
+                                <a >Earrings</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Couple Rings</a>
+                                <a >Couple Rings</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Necklace</a>
+                                <a >Necklace</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Bracelets</a>
+                                <a >Bracelets</a>
                             </li>
                         </ul>
                     </li>
 
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Perfume
                         </a>
 
                         <ul className="dropdown-list">
                             <li className="dropdown-item">
-                                <a href="#">Clothes Perfume</a>
+                                <a >Clothes Perfume</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Deodorant</a>
+                                <a >Deodorant</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Flower Fragrance</a>
+                                <a >Flower Fragrance</a>
                             </li>
 
                             <li className="dropdown-item">
-                                <a href="#">Air Freshener</a>
+                                <a >Air Freshener</a>
                             </li>
                         </ul>
                     </li>
 
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Blog
                         </a>
                     </li>
 
                     <li className="menu-category">
-                        <a href="#" className="menu-title">
+                        <a  className="menu-title">
                             Hot Offers
                         </a>
                     </li>

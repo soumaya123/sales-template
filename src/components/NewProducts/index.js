@@ -46,11 +46,11 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         jacket
                       </a>
 
-                      <a href="#">
+                      <a >
                         <h3 className="showcase-title">
                           Mens Winter Leathers Jackets
                         </h3>
@@ -108,12 +108,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         shirt
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Pure Garment Dyed Cotton Shirt
                         </a>
                       </h3>
@@ -168,12 +168,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         Jacket
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           MEN Yarn Fleece Full-Zip Jacket
                         </a>
                       </h3>
@@ -230,12 +230,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         skirt
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Black Floral Wrap Midi Skirt
                         </a>
                       </h3>
@@ -290,12 +290,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         casual
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Casual Men's Brown shoes
                         </a>
                       </h3>
@@ -352,12 +352,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         watches
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Pocket Watch Leather Pouch
                         </a>
                       </h3>
@@ -412,12 +412,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         watches
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Smart watche Vital Plus
                         </a>
                       </h3>
@@ -474,12 +474,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         party wear
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Womens Party Wear Shoes
                         </a>
                       </h3>
@@ -534,12 +534,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         jacket
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Mens Winter Leathers Jackets
                         </a>
                       </h3>
@@ -596,12 +596,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         sports
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Trekking & Running Shoes - black
                         </a>
                       </h3>
@@ -656,12 +656,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         formal
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Men's Leather Formal Wear shoes
                         </a>
                       </h3>
@@ -718,12 +718,12 @@ const NewProducts = () => {
                     </div>
 
                     <div className="showcase-content">
-                      <a href="#" className="showcase-category">
+                      <a  className="showcase-category">
                         shorts
                       </a>
 
                       <h3>
-                        <a href="#" className="showcase-title">
+                        <a  className="showcase-title">
                           Better Basics French Terry Sweatshorts
                         </a>
                       </h3>
