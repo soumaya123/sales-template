@@ -21,11 +21,8 @@ const Homepage = () => {
       <main>
         <Banners />
         < Categories />
-
-
         <div className="product-container">
           <div className="container">
-
             <CategorieLeft />
             <div className="product-box">
               <ProductsView />
